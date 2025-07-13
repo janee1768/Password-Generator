@@ -21,16 +21,3 @@ After the loop completes, the list of characters is joined into a single string 
 * Mixes letters, numbers, and symbols for strong security
 * Lightweight and easy to understand
 * Fully written in basic Python — no external packages required
-
-### 🛠️ Requirements
-
-* Python 3.x
-* No additional libraries needed
-
-### 📌 How to Use
-
-1. Download or clone the repository.
-2. Open the file in any Python IDE or text editor.
-3. Run the script.
-4. A new password will be displayed in the terminal.
-
